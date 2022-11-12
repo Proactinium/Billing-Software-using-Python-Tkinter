@@ -1,0 +1,20 @@
+	 Welcome To MiniMall
+ Bill Number:1147
+ Customer Name:Manoj Hirawala
+ Phone Number:9457899623
+ Customer Email:manojh@gmail.com
+ ===================================
+ Products		QTY		Price
+ ===================================
+ Garnier		1		85
+ Peers		1		120
+ Parachute		1		120
+ Peter England	1		120
+ Park Avenue	1		1700
+ Levis		1		1700
+
+===================================
+ Sub Amount:		Rs.3845.00
+ Tax Amount:		Rs.21.45
+ Total Amount:		Rs.3866.45
+===================================

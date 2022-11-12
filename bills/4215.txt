@@ -1,0 +1,18 @@
+	 Welcome To MiniMall
+ Bill Number:4215
+ Customer Name:klvdns
+ Phone Number:klnvklx
+ Customer Email:lndv/acs
+ ===================================
+ Products		QTY		Price
+ ===================================
+ Ponds		1		60
+ Lux		      1		70
+ Loto		      1		700
+ Levis		1		5000
+
+===================================
+ Sub Amount:		Rs.5830.00
+ Tax Amount:		Rs.8.30
+ Total Amount:		Rs.5838.30
+===================================

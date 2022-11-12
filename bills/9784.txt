@@ -1,0 +1,18 @@
+	 Welcome To MiniMall
+ Bill Number:9784
+ Customer Name:nk;vs.n
+ Phone Number:jkbcs.b
+ Customer Email:.svnzx ;.k
+ ===================================
+ Products		QTY		Price
+ ===================================
+ Iphone_11		1		60000
+ Redme 11		1		60000
+ Realme 13		1		22000
+ OnePlus 6		1		40000
+
+===================================
+ Sub Amount:		Rs.182000.00
+ Tax Amount:		Rs.1420.00
+ Total Amount:		Rs.183420.00
+===================================

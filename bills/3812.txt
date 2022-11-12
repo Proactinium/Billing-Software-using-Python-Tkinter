@@ -1,0 +1,18 @@
+	 Welcome To MiniMall
+ Bill Number:3812
+ Customer Name:ndc
+ Phone Number:nksn
+ Customer Email:hjkbs
+ ===================================
+ Products		QTY		Price
+ ===================================
+ US Polo		1		1500
+ Roaster		1		900
+ Jasmin		1		22
+ Denim		1		2000
+
+===================================
+ Sub Amount:		Rs.4422.00
+ Tax Amount:		Rs.24.22
+ Total Amount:		Rs.4446.22
+===================================

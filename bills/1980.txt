@@ -1,0 +1,17 @@
+	 Welcome To MiniMall
+ Bill Number:1980
+ Customer Name:lkc;n
+ Phone Number:jkldvj
+ Customer Email:csjxkm
+ ===================================
+ Products		QTY		Price
+ ===================================
+ US Polo		1		1500
+ Roaster		1		900
+ Loto		      1		700
+
+===================================
+ Sub Amount:		Rs.3100.00
+ Tax Amount:		Rs.24.00
+ Total Amount:		Rs.3124.00
+===================================

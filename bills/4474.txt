@@ -1,0 +1,17 @@
+	 Welcome To MiniMall
+ Bill Number:4474
+ Customer Name:Vaidehi Nare
+ Phone Number:9566788948
+ Customer Email:vaidehin1@gmail.com
+ ===================================
+ Products		QTY		Price
+ ===================================
+ Fair & Lovely	1		70
+ Ponds		1		60
+ Lux		      2		140
+
+===================================
+ Sub Amount:		Rs.270.00
+ Tax Amount:		Rs.2.00
+ Total Amount:		Rs.272.00
+===================================

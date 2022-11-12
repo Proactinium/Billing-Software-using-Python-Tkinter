@@ -1,0 +1,17 @@
+	 Welcome To MiniMall
+ Bill Number:9719
+ Customer Name:lwkjs
+ Phone Number:jndvj
+ Customer Email:ljfekj
+ ===================================
+ Products		QTY		Price
+ ===================================
+ Realme 13		1		22000
+ Realme 12		1		30000
+ Iphone_12		1		85000
+
+===================================
+ Sub Amount:		Rs.137000.00
+ Tax Amount:		Rs.520.00
+ Total Amount:		Rs.137520.00
+===================================

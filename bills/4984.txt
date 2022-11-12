@@ -1,0 +1,18 @@
+	 Welcome To MiniMall
+ Bill Number:4984
+ Customer Name:.kscbjx
+ Phone Number:dbjksb.cas
+ Customer Email:bkjz.
+ ===================================
+ Products		QTY		Price
+ ===================================
+ Roaster		1		900
+ US Polo		1		900
+ Jasmin		1		22
+ Denim		1		2000
+
+===================================
+ Sub Amount:		Rs.3822.00
+ Tax Amount:		Rs.18.22
+ Total Amount:		Rs.3840.22
+===================================

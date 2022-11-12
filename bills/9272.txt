@@ -1,0 +1,17 @@
+	 Welcome To MiniMall
+ Bill Number:9272
+ Customer Name:klvdn
+ Phone Number:nbfdaj
+ Customer Email:klbdsn
+ ===================================
+ Products		QTY		Price
+ ===================================
+ Ponds		1		60
+ Garnier		1		85
+ Denim		1		2000
+
+===================================
+ Sub Amount:		Rs.2145.00
+ Tax Amount:		Rs.1.45
+ Total Amount:		Rs.2146.45
+===================================

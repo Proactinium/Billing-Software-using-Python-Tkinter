@@ -1,0 +1,18 @@
+	 Welcome To MiniMall
+ Bill Number:5713
+ Customer Name:j,czn
+ Phone Number:kvj
+ Customer Email:,c v x 
+ ===================================
+ Products		QTY		Price
+ ===================================
+ Iphone_12		1		85000
+ Iphone_12		1		85000
+ Iphone_11		1		60000
+ OnePlus 5		1		60000
+
+===================================
+ Sub Amount:		Rs.290000.00
+ Tax Amount:		Rs.2300.00
+ Total Amount:		Rs.292300.00
+===================================

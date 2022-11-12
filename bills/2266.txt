@@ -1,0 +1,18 @@
+	 Welcome To MiniMall
+ Bill Number:2266
+ Customer Name:.vdznN
+ Phone Number:lndv/k
+ Customer Email:nklvx/z
+ ===================================
+ Products		QTY		Price
+ ===================================
+ LifeBuoy		1		50
+ Roaster		1		900
+ Mufti		1		400
+ Samsung M12	1		11000
+
+===================================
+ Sub Amount:		Rs.12350.00
+ Tax Amount:		Rs.13.50
+ Total Amount:		Rs.12363.50
+===================================

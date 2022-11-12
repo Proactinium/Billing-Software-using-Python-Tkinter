@@ -1,0 +1,17 @@
+	 Welcome To MiniMall
+ Bill Number:6066
+ Customer Name:Rakesh Kumar
+ Phone Number:8787675645
+ Customer Email:rakeshsh@gmail.com
+ ===================================
+ Products		QTY		Price
+ ===================================
+ Paneer Chilli	1		125
+ Butter Roti	3		24
+ Veg Biryani	2		260
+
+===================================
+ Sub Amount:		Rs.409.00
+ Tax Amount:		Rs.2.79
+ Total Amount:		Rs.411.79
+===================================

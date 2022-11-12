@@ -1,0 +1,9 @@
+	 Welcome To MiniMall
+ Bill Number:4180
+ Customer Name:
+ Phone Number:
+ Customer Email:
+ ===================================
+ Products		QTY		Price
+ ===================================
+

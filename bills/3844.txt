@@ -1,0 +1,16 @@
+	 Welcome To MiniMall
+ Bill Number:3844
+ Customer Name:Kate Winston
+ Phone Number:9887654562
+ Customer Email:katewin@gmail.com
+ ===================================
+ Products		QTY		Price
+ ===================================
+ OnePlus 6		1		40000
+ Iphone_12		1		85000
+
+===================================
+ Sub Amount:		Rs.125000.00
+ Tax Amount:		Rs.400.00
+ Total Amount:		Rs.125400.00
+===================================
